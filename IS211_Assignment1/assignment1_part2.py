@@ -4,7 +4,7 @@
 
 
 class Book(object):
-    """Docstring.
+    """This takes an author and title and combines them into a string.
 
     Attributes:
         author (str): An empty string.
