@@ -44,8 +44,6 @@ class ListDivideException(Exception):
 def testListDivide():
     """This test particular out comes of the listDivide function.
 
-    Args:
-
     Returns:
         Exception: if an answer to listDivide is wrong is raises
         ListDivideException + string explaining the error. If it dose not find
